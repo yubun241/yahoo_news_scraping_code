@@ -1,0 +1,2 @@
+# yahoo_news_scraping_code
+ヤフーニュースの記事をスクレイピングするコードです
